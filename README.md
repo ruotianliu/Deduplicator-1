@@ -8,7 +8,7 @@ Design and implement an efficient data storage locker that utilizes deduplicatio
 ### group members 
 Alex Jeffrey Lin  [ajlin@bu.edu]
 
-Routian Liu  [rtliu@bu.edu]
+Ruotian Liu  [rtliu@bu.edu]
 
 Jiaqi Sun  [sjq@bu.edu]
 
